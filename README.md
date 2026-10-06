@@ -1,6 +1,6 @@
 ## Link Company Profile Group 2 - Algoritma
 
-Link    : https://ismailalfiandi.github.io/Profile_Kelompok-2-Algoritma/
+Web Link    : https://ismailalfiandi.github.io/Profile_Kelompok-2-Algoritma/
 
 ## Company Profile Kelompok — Panduan Singkat
 
